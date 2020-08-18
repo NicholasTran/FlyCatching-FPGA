@@ -7,4 +7,4 @@ To run the game, go to the following link:
 
 Then, follow the instructions given in the instructions pdf-it will walk through the step required to get the game up and running.
 
-![Imgur](https://imgur.com/fY8eY40)
+![Imgur](https://i.imgur.com/loBXzsc.png)
