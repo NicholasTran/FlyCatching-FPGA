@@ -6,3 +6,5 @@ To run the game, go to the following link:
 [CPUlator](https://cpulator.01xz.net/?sys=arm-de1soc)
 
 Then, follow the instructions given in the instructions pdf-it will walk through the step required to get the game up and running.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
